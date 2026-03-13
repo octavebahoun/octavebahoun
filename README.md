@@ -84,7 +84,7 @@ class OctaveBahoun:
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/octave-bahoun-b9114b337/)">
+<a href="https://www.linkedin.com/in/octave-bahoun-b9114b337">
 <img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -92,7 +92,7 @@ class OctaveBahoun:
 <img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://github.com/octavebahoun](https://github.com/octavebahoun)">
+<a href="https://github.com/octavebahoun">
 <img src="https://img.shields.io/badge/GitHub-F7C948?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
