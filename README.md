@@ -67,7 +67,13 @@ class OctaveBahoun:
 </div>
 
 <br/>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=octavebahoun&custom_title=Octave's%20Contribution%20Graph&bg_color=0d1117&color=FF6B35&line=E63946&point=F7C948&area_color=FF6B35&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+</div>
+
+<br/>
 ---
 
 ## 🏆 GitHub Trophies
