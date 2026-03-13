@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=250&section=header&text=Octave%20BAHOUN-HOUTOUKPE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Systems%20Developer%20%7C%20DevOps&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=250&section=header&text=Octave%20BAHOUN-HOUTOUKPE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%7C%20Building%20Smart%20Solutions&descSize=18&descAlignY=55&descAlign=50"/>
 
 <div align="center">
 
@@ -98,6 +98,18 @@ class OctaveBahoun:
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+  **💬 Open to collaborations & freelance projects!**
+
+  *Got an idea, a project, or a technical challenge? Let's build something amazing together.*
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=120&section=footer"/>
