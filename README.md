@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,19,17&height=250&section=header&text=Octave%20BAHOUN-HOUTOUKPE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ing%C3%A9nieur%20IA%20Full%20Stack%20%7C%20Je%20con%C3%A7ois%20des%20solutions%20intelligentes&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,19,17&height=250&section=header&text=Octave%20BAHOUN-HOUTOUKPE&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ing%C3%A9nieur%20IA%20Full%20Stack%20%7C%20Je%20con%C3%A7ois%20des%20solutions%20intelligentes&descSize=18&descAlignY=55&descAlign=50"/>
 
 <div align="center">
 
@@ -52,9 +52,9 @@ class OctaveBahoun:
 
 <div align="center">
 
-<img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg"/>
+<img width="49%" src="./profile-summary-card-output/holi/3-stats.svg"/>
 
-<img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+<img width="49%" src="./profile-summary-card-output/holi/2-most-commit-language.svg"/>
 
 </div>
 
@@ -106,4 +106,4 @@ class OctaveBahoun:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,19,17&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,19,17&height=120&section=footer&animation=twinkling"/>

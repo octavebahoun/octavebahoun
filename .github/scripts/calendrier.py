@@ -41,8 +41,12 @@ total_txt = f"{total:,}".replace(",", " ")
 
 svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{largeur}" height="{hauteur}" '
        f'viewBox="0 0 {largeur} {hauteur}" font-family="Segoe UI, Ubuntu, sans-serif">',
+       '<style>.c{opacity:0;transform-box:fill-box;transform-origin:center;'
+       'animation:pop .5s cubic-bezier(.2,.8,.3,1.4) forwards}'
+       '@keyframes pop{from{opacity:0;transform:scale(.2)}to{opacity:1;transform:scale(1)}}'
+       '.t{animation:fade 1s ease-out both}@keyframes fade{from{opacity:0}to{opacity:1}}</style>',
        f'<rect width="100%" height="100%" rx="6" fill="#0d1117"/>',
-       f'<text x="{MARGE_G}" y="26" fill="#1E90FF" font-size="16" font-weight="600">'
+       f'<text x="{MARGE_G}" y="26" fill="#1E90FF" font-size="16" font-weight="600" class="t">'
        f'{total_txt} contributions sur la dernière année</text>']
 
 mois_prec, derniere_col = -1, -10
@@ -60,7 +64,8 @@ for col, semaine in enumerate(semaines):
             continue
         n = jour["count"]
         svg.append(f'<rect x="{MARGE_G + col * PAS}" y="{MARGE_H + lig * PAS}" width="{CASE}" '
-                   f'height="{CASE}" rx="3" fill="{NIVEAUX[niveau(n, maxi)]}">'
+                   f'height="{CASE}" rx="3" fill="{NIVEAUX[niveau(n, maxi)]}" class="c" '
+                   f'style="animation-delay:{col * 25 + lig * 35}ms">'
                    f'<title>{n} contribution{"s" if n > 1 else ""} · {jour["date"]}</title></rect>')
 
 for lig, nom in ((1, "lun"), (3, "mer"), (5, "ven")):

@@ -15,6 +15,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          THEME: holi
+          ANIMATION: stagger
       - name: Calendrier des contributions
         run: python3 .github/scripts/calendrier.py ${{ github.repository_owner }} calendrier.svg
       - name: Commit du calendrier
