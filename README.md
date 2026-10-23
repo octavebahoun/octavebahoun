@@ -66,6 +66,14 @@ class OctaveBahoun:
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img width="95%" src="./calendrier.svg"/>
+
+</div>
+
 ---
 
 ## 🤝 Me contacter

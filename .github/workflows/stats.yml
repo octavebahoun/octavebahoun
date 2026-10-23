@@ -15,3 +15,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+      - name: Calendrier des contributions
+        run: python3 .github/scripts/calendrier.py ${{ github.repository_owner }} calendrier.svg
+      - name: Commit du calendrier
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull -q --rebase origin main
+          git add calendrier.svg
+          git diff --cached --quiet || (git commit -m "Calendrier des contributions" && git push)
