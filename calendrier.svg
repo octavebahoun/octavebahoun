@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="802" height="188" viewBox="0 0 802 188" font-family="Segoe UI, Ubuntu, sans-serif">
 <style>.c{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .5s cubic-bezier(.2,.8,.3,1.4) forwards}@keyframes pop{from{opacity:0;transform:scale(.2)}to{opacity:1;transform:scale(1)}}.t{animation:fade 1s ease-out both}@keyframes fade{from{opacity:0}to{opacity:1}}</style>
 <rect width="100%" height="100%" rx="6" fill="#0d1117"/>
-<text x="40" y="26" fill="#1E90FF" font-size="16" font-weight="600" class="t">2 386 contributions sur la dernière année</text>
+<text x="40" y="26" fill="#1E90FF" font-size="16" font-weight="600" class="t">2 390 contributions sur la dernière année</text>
 <text x="40" y="42" fill="#8b949e" font-size="10">nov.</text>
 <rect x="40" y="50" width="11" height="11" rx="3" fill="#161b22" class="c" style="animation-delay:0ms"><title>0 contribution · 2025-11-09</title></rect>
 <rect x="40" y="64" width="11" height="11" rx="3" fill="#1E90FF8C" class="c" style="animation-delay:35ms"><title>17 contributions · 2025-11-10</title></rect>
@@ -120,7 +120,7 @@
 <rect x="250" y="134" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:585ms"><title>2 contributions · 2026-02-28</title></rect>
 <text x="264" y="42" fill="#8b949e" font-size="10">mars</text>
 <rect x="264" y="50" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:400ms"><title>1 contribution · 2026-03-01</title></rect>
-<rect x="264" y="64" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:435ms"><title>3 contributions · 2026-03-02</title></rect>
+<rect x="264" y="64" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:435ms"><title>2 contributions · 2026-03-02</title></rect>
 <rect x="264" y="78" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:470ms"><title>14 contributions · 2026-03-03</title></rect>
 <rect x="264" y="92" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:505ms"><title>14 contributions · 2026-03-04</title></rect>
 <rect x="264" y="106" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:540ms"><title>13 contributions · 2026-03-05</title></rect>
@@ -383,7 +383,8 @@
 <rect x="768" y="64" width="11" height="11" rx="3" fill="#1E90FF8C" class="c" style="animation-delay:1335ms"><title>26 contributions · 2026-11-09</title></rect>
 <rect x="768" y="78" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:1370ms"><title>3 contributions · 2026-11-10</title></rect>
 <rect x="768" y="92" width="11" height="11" rx="3" fill="#161b22" class="c" style="animation-delay:1405ms"><title>0 contribution · 2026-11-11</title></rect>
-<rect x="768" y="106" width="11" height="11" rx="3" fill="#161b22" class="c" style="animation-delay:1440ms"><title>0 contribution · 2026-11-12</title></rect>
+<rect x="768" y="106" width="11" height="11" rx="3" fill="#1E90FF4D" class="c" style="animation-delay:1440ms"><title>5 contributions · 2026-11-12</title></rect>
+<rect x="768" y="120" width="11" height="11" rx="3" fill="#161b22" class="c" style="animation-delay:1475ms"><title>0 contribution · 2026-11-13</title></rect>
 <text x="10" y="73" fill="#8b949e" font-size="10">lun</text>
 <text x="10" y="101" fill="#8b949e" font-size="10">mer</text>
 <text x="10" y="129" fill="#8b949e" font-size="10">ven</text>
